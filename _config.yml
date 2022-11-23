@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "William de Vazelhes"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD candidate in Machine Learning at MBZUAI"
   location         : "Dubai / Abu Dhabi"
   employer         :
