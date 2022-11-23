@@ -14,7 +14,7 @@ description              : &description "PhD candidate in ML at MBZUAI"
 url                      : https://wdevazelhes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wdevazelhes.github.io"
-teaser                   :  "profile.jpeg"
+teaser                   : "images/profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
