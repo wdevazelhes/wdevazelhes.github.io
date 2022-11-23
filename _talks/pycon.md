@@ -4,7 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/metric-learn
 venue: "PyConFR 2018"
-date: 2018
 location: "Lille, France"
 ---
 
