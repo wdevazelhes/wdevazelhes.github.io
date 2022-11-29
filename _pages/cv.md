@@ -11,7 +11,7 @@ redirect_from:
 
 Full CV Link
 =======
-[https://drive.google.com/file/d/1oS6p6FuZ3yjUCO3HEusj6I__DkX4EiNv/view?usp=sharing](link here)
+[link here](https://drive.google.com/file/d/1oS6p6FuZ3yjUCO3HEusj6I__DkX4EiNv/view?usp=sharing)
 
 Education
 ======
