@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV Link
+=======
+[https://drive.google.com/file/d/1oS6p6FuZ3yjUCO3HEusj6I__DkX4EiNv/view?usp=sharing](link here)
+
 Education
 ======
 * M.S. from Supelec, (now part of CentraleSupelec, part of Paris Saclay University), 2016
