@@ -13,4 +13,4 @@ Core contributor of metric-learn, a scikit-learn compatible package for metric-l
 
 Open source contributions
 =========================
-Committed a few contributions to [scikit-learn](https://scikit-learn.org/stable/): a significant one is an algorithm for supervised metric learning in scikit-learn: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA)
+Did a few contributions to [scikit-learn](https://scikit-learn.org/stable/): the most significant one is an algorithm for supervised metric learning in scikit-learn: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA)
