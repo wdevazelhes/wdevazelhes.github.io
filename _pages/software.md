@@ -8,9 +8,10 @@ author_profile: true
 
 metric-learn
 =============
-Core contributor of [metric-learn](https://github.com/scikit-learn-contrib/metric-learn), a [scikit-learn-contrib](https://github.com/scikit-learn-contrib) package for metric-learning in python. (>1.3K :star:)
+Core contributor of [metric-learn](https://github.com/scikit-learn-contrib/metric-learn), a [scikit-learn-contrib](https://github.com/scikit-learn-contrib) package for metric-learning in python. (>1.3K &#10025;)
+
 [Github](https://github.com/scikit-learn-contrib/metric-learn) || [Documentation](https://contrib.scikit-learn.org/metric-learn) || [conda-forge](https://anaconda.org/conda-forge/metric-learn)  || [PyPi](https://pypi.org/project/metric-learn/) || [paper](https://www.jmlr.org/papers/volume21/19-678/19-678.pdf) 
 
 Open source contributions
 =========================
-Did a few contributions to [scikit-learn](https://scikit-learn.org/stable/): the most significant one is an algorithm for supervised metric learning: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA)
+Did a few contributions to [scikit-learn](https://scikit-learn.org/stable/): the most significant one is an algorithm for supervised metric learning: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA) 
