@@ -10,7 +10,7 @@ metric-learn
 =============
 Core contributor of [metric-learn](https://github.com/scikit-learn-contrib/metric-learn), a [scikit-learn-contrib](https://github.com/scikit-learn-contrib) package for metric-learning in python. (>1.3K &#10025;)
 
-[Github](https://github.com/scikit-learn-contrib/metric-learn) || [Documentation](https://contrib.scikit-learn.org/metric-learn) || [conda-forge](https://anaconda.org/conda-forge/metric-learn)  || [PyPi](https://pypi.org/project/metric-learn/) || [paper](https://www.jmlr.org/papers/volume21/19-678/19-678.pdf) 
+[Github](https://github.com/scikit-learn-contrib/metric-learn),  [Documentation](https://contrib.scikit-learn.org/metric-learn), [conda-forge](https://anaconda.org/conda-forge/metric-learn), [PyPi](https://pypi.org/project/metric-learn/), [paper](https://www.jmlr.org/papers/volume21/19-678/19-678.pdf) 
 
 Open source contributions
 =========================
