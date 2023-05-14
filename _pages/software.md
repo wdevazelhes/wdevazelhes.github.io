@@ -14,4 +14,4 @@ Core contributor of a [scikit-learn-contrib](https://github.com/scikit-learn-con
 
 Open source contributions
 =========================
-Did a few contributions to [scikit-learn](https://scikit-learn.org/stable/): the most significant one is an algorithm for supervised metric learning: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA) 
+Did a few contributions to [scikit-learn](https://scikit-learn.org/stable/): the most significant one is an algorithm for supervised metric learning: [Neighborhood Components Analysis](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html) (NCA). ([Merged PR link](https://github.com/scikit-learn/scikit-learn/pull/10058))
