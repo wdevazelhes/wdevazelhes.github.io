@@ -77,7 +77,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links:
   - label: "Reddit"
-    icon: "fas fa-fw fa-reddit"
+    icon: "fa-brands fa-reddit"
     url: "https://www.reddit.com/user/wdevazelhes"
 
 
