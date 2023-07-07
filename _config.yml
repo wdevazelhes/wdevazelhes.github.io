@@ -72,6 +72,13 @@ social:
   - label: "Mastodon"
     icon: "fas fa-fw fa-mastodon"
     url: "https://mastodon.social/@wdevazelhes"
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links:
+  - label: "Reddit"
+    icon: "fas fa-fw fa-reddit"
+    url: "https://www.reddit.com/user/wdevazelhes"
 
 
 # Analytics
@@ -119,6 +126,7 @@ author:
   youtube          :
   wikipedia        :
   mastodon         : "wdevazelhes"
+  reddit           : "wdevazelhes"
 
 
 # Reading Files
