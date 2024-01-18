@@ -1,5 +1,6 @@
 ---
 title: "metric-learn: Metric Learning Algorithms in Python"
+authors: **William de Vazelhes**, CJ Carey, Yuan Tang, Nathalie Vauquier, Aurélien Bellet
 collection: publications
 permalink: /publication/metric-learn
 venue: 'JMLR OSS track'

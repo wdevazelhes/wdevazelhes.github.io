@@ -16,7 +16,7 @@ Full CV Link
 Education
 ======
 * M.S. from Supelec, (now part of CentraleSupelec, part of Paris Saclay University), 2016
-* Ph.D in ML, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), 2021-2025 (expected)
+* Ph.D in ML, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Aug. 2021 - Jun. 2024 (expected)
 
 Publications
 ======
