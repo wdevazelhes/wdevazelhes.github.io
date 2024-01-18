@@ -7,10 +7,10 @@ author_profile: true
 
 # Reviewer:
 
-Reviewer for Neurips 2023, ICLR 2024, and ICML 2024 (to come)
+Reviewer for Neurips 2023, ICLR 2024, and ICML 2024 (to come).
 
 
-# Extra content
+# PhD candidacy
 
 - 11 May 2023: Successfully passed the PhD candidacy Exam [Candidacy Thesis](https://drive.google.com/file/d/1GpnarTvMh6TXgOUPor1wm67ZVe2olu2j/view?usp=sharing) [Presentation](https://drive.google.com/file/d/1GqzauQec1agDnwZmBFTva-PO2-Hfloae/view?usp=sharing)
 
