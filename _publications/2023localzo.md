@@ -1,6 +1,5 @@
 ---
-title: "Direct Training of SNN using Local Zeroth Order Method"
-authors: Bhaskar Mukhoty*, Velibor Bojkovic*, **William de Vazelhes**, Xiaohan Zhao, Giulia De Masi, Huan Xiong, Bin Gu
+title: "Direct Training of SNN using Local Zeroth Order Method, Bhaskar Mukhoty*, Velibor Bojkovic*, **William de Vazelhes**, Xiaohan Zhao, Giulia De Masi, Huan Xiong, Bin Gu"
 collection: publications
 permalink: /publication/localzo
 venue: 'NeurIPS'
