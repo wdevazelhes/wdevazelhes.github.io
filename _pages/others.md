@@ -7,7 +7,7 @@ author_profile: true
 
 # Reviewer:
 
-Reviewer for Neurips 2023, ICLR 2024, and ICML 2024 (to come).
+Reviewer for NeurIPS 2023, ICLR 2024, and ICML 2024 (to come).
 
 
 # PhD candidacy
