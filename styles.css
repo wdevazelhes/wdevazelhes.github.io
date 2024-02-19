@@ -60,12 +60,12 @@ nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  padding: 0; /* Remove default padding */
+  padding: 0;
 }
 
 nav a {
   text-decoration: none;
-  margin: 5px 5px; /* Adjust the margin as needed */
+  margin: 0px 5px;
 }
 
 
@@ -125,7 +125,7 @@ footer {
 
 .profile-img-container {
   margin: 10px 10px; /* Auto margin horizontally centers the element */
-  width: 90%; 
+  /* width: 90%;  */
     text-align: center;
 }
 
