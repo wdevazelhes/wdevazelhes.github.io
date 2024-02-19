@@ -143,6 +143,7 @@ footer {
   body {
     font-family: Arial, sans-serif;
     color: var(--text-color);
+    line-height: 1.4;
   }
   
   /* Links */
@@ -158,11 +159,6 @@ footer {
   }
   
 
-  
-  /* Paragraphs
-  p {
-    line-height: 1.6;
-  } */
   
   /* Lists
   ul, ol {
