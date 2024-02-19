@@ -38,14 +38,10 @@ nav a {
     /* margin: 0 15px; */
 /* } */
 
-nav {
-  margin: 10px 10px; /* Auto margin horizontally centers the element */
-  /* width: 90%; Optional: Adjust the width as needed */
-}
 
-header, section, footer {
+header, nav, section, footer {
   margin: 10px 10px; /* Auto margin horizontally centers the element */
-  /* width: 90%; Optional: Adjust the width as needed */
+  width: 90%; 
 }
 
 
@@ -122,6 +118,8 @@ footer {
 }
 
 .profile-img-container {
+  margin: 10px 10px; /* Auto margin horizontally centers the element */
+  width: 90%; 
     text-align: center;
 }
 
