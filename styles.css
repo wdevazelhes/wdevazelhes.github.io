@@ -38,10 +38,17 @@ nav a {
     /* margin: 0 15px; */
 /* } */
 
-header, nav, section, footer {
+nav {
   margin: 10px auto; /* Auto margin horizontally centers the element */
   /* width: 90%; Optional: Adjust the width as needed */
 }
+
+header, section, footer {
+  margin: 10px ; /* Auto margin horizontally centers the element */
+  /* width: 90%; Optional: Adjust the width as needed */
+}
+
+
 
 header {
   text-align: center;
