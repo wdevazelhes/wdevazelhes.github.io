@@ -47,7 +47,7 @@ nav a {
 
 header, nav, section, footer {
   margin: 10px 10px; /* Auto margin horizontally centers the element */
-  width: 90%; 
+  /* width: 90%;  */
 }
 
 
